@@ -6,7 +6,7 @@
 
 ## All functions are in the game
 Functions based on youtube series: https://www.youtube.com/watch?v=562yiR2xVNE&t=4s
-* Create objects every second
+* Create and destroy objects every second
 * Makes the character jump (only when touching the ground)
 
 ## Unity version
